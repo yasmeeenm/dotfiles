@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yasmeenmahomedy@gmail.com
+	name = Yasmeen Mahomedy
